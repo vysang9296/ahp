@@ -1,0 +1,17 @@
+{
+  "experiment_id": "dsv41flash-facts-2026-11-10",
+  "model": "opencode-go/deepseek-v4.1-flash",
+  "temperature": 0.7,
+  "facts": 1,
+  "questionnaire": "AHP_설문_v8",
+  "config_sha256": "0b249c4800821b3fa29d92910c260937c433066075f59e090b2f949395dd9e09",
+  "persona_file_sha256": "1f3e429b0b4d1346a7c7c0acd7e84d3421f2a1d6315a553e6bfbe3f0a404f70a",
+  "dataset": "nvidia/Nemotron-Personas-Korea",
+  "selection_seed": 42,
+  "age_min": 30,
+  "age_max": 59,
+  "agent": "ahp-respondent",
+  "tools": "denied",
+  "session": "fresh per trial",
+  "revision": "same session, once, if CR>=0.1"
+}

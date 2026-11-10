@@ -1,0 +1,8 @@
+사람용 설문 (GitHub Pages)
+https://vysang9296.github.io/ahp/ahp_survey.html
+
+설문 파일
+https://github.com/vysang9296/ahp/blob/main/ahp_survey.html
+
+저장소
+https://github.com/vysang9296/ahp

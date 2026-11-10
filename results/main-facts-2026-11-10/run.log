@@ -1,0 +1,180 @@
+2026-11-10T00:24:10 PILOT imported P01-run1 CR=0.0063
+2026-11-10T00:24:10 SKIP P01-run1 status=completed
+2026-11-10T00:24:10 START P01-run2
+2026-11-10T00:24:10 WAITING P01-run2 attempt1
+2026-11-10T00:25:11 CALL P01-run2 attempt1 rc=0 chars=201 elapsed=60.52
+2026-11-10T00:25:11 PROGRESS 2/40 P01-run2 status=completed CR=0.0036 pass=True
+2026-11-10T00:25:13 START P01-run3
+2026-11-10T00:25:13 WAITING P01-run3 attempt1
+2026-11-10T00:25:37 CALL P01-run3 attempt1 rc=0 chars=207 elapsed=24.04
+2026-11-10T00:25:37 PROGRESS 3/40 P01-run3 status=completed CR=0.0089 pass=True
+2026-11-10T00:25:39 START P01-run4
+2026-11-10T00:25:39 WAITING P01-run4 attempt1
+2026-11-10T00:26:10 CALL P01-run4 attempt1 rc=0 chars=203 elapsed=31.45
+2026-11-10T00:26:10 PROGRESS 4/40 P01-run4 status=completed CR=0.0089 pass=True
+2026-11-10T00:26:12 START P01-run5
+2026-11-10T00:26:12 WAITING P01-run5 attempt1
+2026-11-10T00:26:44 CALL P01-run5 attempt1 rc=0 chars=205 elapsed=32.06
+2026-11-10T00:26:44 PROGRESS 5/40 P01-run5 status=completed CR=0.0089 pass=True
+2026-11-10T00:26:46 START P02-run1
+2026-11-10T00:26:46 WAITING P02-run1 attempt1
+2026-11-10T00:28:05 CALL P02-run1 attempt1 rc=0 chars=193 elapsed=78.05
+2026-11-10T00:28:05 PROGRESS 6/40 P02-run1 status=completed CR=0.0086 pass=True
+2026-11-10T00:28:07 START P02-run2
+2026-11-10T00:28:07 WAITING P02-run2 attempt1
+2026-11-10T00:29:05 CALL P02-run2 attempt1 rc=0 chars=201 elapsed=58.55
+2026-11-10T00:29:05 PROGRESS 7/40 P02-run2 status=completed CR=0.0131 pass=True
+2026-11-10T00:29:07 START P02-run3
+2026-11-10T00:29:07 WAITING P02-run3 attempt1
+2026-11-10T00:30:50 CALL P02-run3 attempt1 rc=0 chars=195 elapsed=102.62
+2026-11-10T00:30:50 PROGRESS 8/40 P02-run3 status=completed CR=0.0196 pass=True
+2026-11-10T00:30:52 START P02-run4
+2026-11-10T00:30:52 WAITING P02-run4 attempt1
+2026-11-10T00:31:39 CALL P02-run4 attempt1 rc=0 chars=205 elapsed=47.39
+2026-11-10T00:31:39 PROGRESS 9/40 P02-run4 status=completed CR=0.0089 pass=True
+2026-11-10T00:31:41 START P02-run5
+2026-11-10T00:31:41 WAITING P02-run5 attempt1
+2026-11-10T00:32:40 CALL P02-run5 attempt1 rc=0 chars=203 elapsed=58.53
+2026-11-10T00:32:40 PROGRESS 10/40 P02-run5 status=completed CR=0.0367 pass=True
+2026-11-10T00:32:42 START P03-run1
+2026-11-10T00:32:42 WAITING P03-run1 attempt1
+2026-11-10T00:34:15 CALL P03-run1 attempt1 rc=0 chars=203 elapsed=93.16
+2026-11-10T00:34:15 PROGRESS 11/40 P03-run1 status=completed CR=0.0089 pass=True
+2026-11-10T00:34:17 START P03-run2
+2026-11-10T00:34:17 WAITING P03-run2 attempt1
+2026-11-10T00:37:03 CALL P03-run2 attempt1 rc=0 chars=201 elapsed=165.83
+2026-11-10T00:37:03 PROGRESS 12/40 P03-run2 status=completed CR=0.0063 pass=True
+2026-11-10T00:37:05 START P03-run3
+2026-11-10T00:37:05 WAITING P03-run3 attempt1
+2026-11-10T00:37:36 CALL P03-run3 attempt1 rc=0 chars=195 elapsed=30.83
+2026-11-10T00:37:36 PROGRESS 13/40 P03-run3 status=completed CR=0.0145 pass=True
+2026-11-10T00:37:38 START P03-run4
+2026-11-10T00:37:38 WAITING P03-run4 attempt1
+2026-11-10T00:38:50 CALL P03-run4 attempt1 rc=0 chars=199 elapsed=72.61
+2026-11-10T00:38:50 PROGRESS 14/40 P03-run4 status=completed CR=0.0160 pass=True
+2026-11-10T00:38:52 START P03-run5
+2026-11-10T00:38:52 WAITING P03-run5 attempt1
+2026-11-10T00:39:15 CALL P03-run5 attempt1 rc=0 chars=203 elapsed=22.9
+2026-11-10T00:39:15 PROGRESS 15/40 P03-run5 status=completed CR=0.0211 pass=True
+2026-11-10T00:39:17 START P04-run1
+2026-11-10T00:39:17 WAITING P04-run1 attempt1
+2026-11-10T00:40:01 CALL P04-run1 attempt1 rc=0 chars=205 elapsed=43.59
+2026-11-10T00:40:01 PROGRESS 16/40 P04-run1 status=completed CR=0.0067 pass=True
+2026-11-10T00:40:03 START P04-run2
+2026-11-10T00:40:03 WAITING P04-run2 attempt1
+2026-11-10T00:42:01 CALL P04-run2 attempt1 rc=0 chars=199 elapsed=118.07
+2026-11-10T00:42:01 PROGRESS 17/40 P04-run2 status=completed CR=0.0273 pass=True
+2026-11-10T00:42:03 START P04-run3
+2026-11-10T00:42:03 WAITING P04-run3 attempt1
+2026-11-10T00:42:22 CALL P04-run3 attempt1 rc=0 chars=205 elapsed=18.67
+2026-11-10T00:42:22 PROGRESS 18/40 P04-run3 status=completed CR=0.0076 pass=True
+2026-11-10T00:42:24 START P04-run4
+2026-11-10T00:42:24 WAITING P04-run4 attempt1
+2026-11-10T00:42:48 CALL P04-run4 attempt1 rc=0 chars=199 elapsed=24.75
+2026-11-10T00:42:48 PROGRESS 19/40 P04-run4 status=completed CR=0.0104 pass=True
+2026-11-10T00:42:50 START P04-run5
+2026-11-10T00:42:50 WAITING P04-run5 attempt1
+2026-11-10T00:43:53 CALL P04-run5 attempt1 rc=0 chars=209 elapsed=62.84
+2026-11-10T00:43:53 PROGRESS 20/40 P04-run5 status=completed CR=0.0149 pass=True
+2026-11-10T00:43:55 START P05-run1
+2026-11-10T00:43:55 WAITING P05-run1 attempt1
+2026-11-10T00:44:49 CALL P05-run1 attempt1 rc=0 chars=205 elapsed=53.79
+2026-11-10T00:44:49 PROGRESS 21/40 P05-run1 status=completed CR=0.0140 pass=True
+2026-11-10T00:44:51 START P05-run2
+2026-11-10T00:44:51 WAITING P05-run2 attempt1
+2026-11-10T00:45:28 CALL P05-run2 attempt1 rc=0 chars=199 elapsed=37.27
+2026-11-10T00:45:28 PROGRESS 22/40 P05-run2 status=completed CR=0.0248 pass=True
+2026-11-10T00:45:30 START P05-run3
+2026-11-10T00:45:30 WAITING P05-run3 attempt1
+2026-11-10T00:46:19 CALL P05-run3 attempt1 rc=0 chars=207 elapsed=48.46
+2026-11-10T00:46:19 PROGRESS 23/40 P05-run3 status=completed CR=0.0204 pass=True
+2026-11-10T00:46:21 START P05-run4
+2026-11-10T00:46:21 WAITING P05-run4 attempt1
+2026-11-10T00:47:07 CALL P05-run4 attempt1 rc=0 chars=197 elapsed=46.52
+2026-11-10T00:47:07 PROGRESS 24/40 P05-run4 status=completed CR=0.0076 pass=True
+2026-11-10T00:47:09 START P05-run5
+2026-11-10T00:47:09 WAITING P05-run5 attempt1
+2026-11-10T00:47:38 CALL P05-run5 attempt1 rc=0 chars=203 elapsed=28.25
+2026-11-10T00:47:38 PROGRESS 25/40 P05-run5 status=completed CR=0.0000 pass=True
+2026-11-10T00:47:40 START P06-run1
+2026-11-10T00:47:40 WAITING P06-run1 attempt1
+2026-11-10T00:48:52 CALL P06-run1 attempt1 rc=0 chars=193 elapsed=72.46
+2026-11-10T00:48:52 PROGRESS 26/40 P06-run1 status=completed CR=0.0089 pass=True
+2026-11-10T00:48:54 START P06-run2
+2026-11-10T00:48:54 WAITING P06-run2 attempt1
+2026-11-10T00:50:20 CALL P06-run2 attempt1 rc=0 chars=201 elapsed=86.28
+2026-11-10T00:50:20 PROGRESS 27/40 P06-run2 status=completed CR=0.0089 pass=True
+2026-11-10T00:50:22 START P06-run3
+2026-11-10T00:50:22 WAITING P06-run3 attempt1
+2026-11-10T00:51:19 CALL P06-run3 attempt1 rc=0 chars=197 elapsed=57.1
+2026-11-10T00:51:19 PROGRESS 28/40 P06-run3 status=completed CR=0.0063 pass=True
+2026-11-10T00:51:21 START P06-run4
+2026-11-10T00:51:21 WAITING P06-run4 attempt1
+2026-11-10T00:52:23 CALL P06-run4 attempt1 rc=0 chars=199 elapsed=61.39
+2026-11-10T00:52:23 PROGRESS 29/40 P06-run4 status=completed CR=0.0062 pass=True
+2026-11-10T00:52:25 START P06-run5
+2026-11-10T00:52:25 WAITING P06-run5 attempt1
+2026-11-10T00:53:08 CALL P06-run5 attempt1 rc=0 chars=207 elapsed=43.39
+2026-11-10T00:53:08 PROGRESS 30/40 P06-run5 status=completed CR=0.0000 pass=True
+2026-11-10T00:53:10 START P07-run1
+2026-11-10T00:53:10 WAITING P07-run1 attempt1
+2026-11-10T00:53:57 CALL P07-run1 attempt1 rc=0 chars=201 elapsed=46.79
+2026-11-10T00:53:57 PROGRESS 31/40 P07-run1 status=completed CR=0.0076 pass=True
+2026-11-10T00:53:59 START P07-run2
+2026-11-10T00:53:59 WAITING P07-run2 attempt1
+2026-11-10T00:56:43 CALL P07-run2 attempt1 rc=0 chars=193 elapsed=163.69
+2026-11-10T00:56:43 PROGRESS 32/40 P07-run2 status=completed CR=0.0089 pass=True
+2026-11-10T00:56:45 START P07-run3
+2026-11-10T00:56:45 WAITING P07-run3 attempt1
+2026-11-10T00:57:23 CALL P07-run3 attempt1 rc=0 chars=197 elapsed=37.73
+2026-11-10T00:57:23 PROGRESS 33/40 P07-run3 status=completed CR=0.0160 pass=True
+2026-11-10T00:57:25 START P07-run4
+2026-11-10T00:57:25 WAITING P07-run4 attempt1
+2026-11-10T00:58:25 CALL P07-run4 attempt1 rc=0 chars=203 elapsed=60.79
+2026-11-10T00:58:25 PROGRESS 34/40 P07-run4 status=completed CR=0.0044 pass=True
+2026-11-10T00:58:27 START P07-run5
+2026-11-10T00:58:27 WAITING P07-run5 attempt1
+2026-11-10T00:59:22 CALL P07-run5 attempt1 rc=0 chars=201 elapsed=54.52
+2026-11-10T00:59:22 PROGRESS 35/40 P07-run5 status=completed CR=0.0000 pass=True
+2026-11-10T00:59:24 START P08-run1
+2026-11-10T00:59:24 WAITING P08-run1 attempt1
+2026-11-10T01:00:57 CALL P08-run1 attempt1 rc=0 chars=213 elapsed=93.34
+2026-11-10T01:00:57 PROGRESS 36/40 P08-run1 status=completed CR=0.0152 pass=True
+2026-11-10T01:00:59 START P08-run2
+2026-11-10T01:00:59 WAITING P08-run2 attempt1
+2026-11-10T01:02:44 CALL P08-run2 attempt1 rc=0 chars=197 elapsed=104.52
+2026-11-10T01:02:44 PROGRESS 37/40 P08-run2 status=completed CR=0.0290 pass=True
+2026-11-10T01:02:46 START P08-run3
+2026-11-10T01:02:46 WAITING P08-run3 attempt1
+2026-11-10T01:03:49 CALL P08-run3 attempt1 rc=0 chars=199 elapsed=63.39
+2026-11-10T01:03:49 PROGRESS 38/40 P08-run3 status=completed CR=0.0209 pass=True
+2026-11-10T01:03:51 START P08-run4
+2026-11-10T01:03:51 WAITING P08-run4 attempt1
+2026-11-10T01:05:39 CALL P08-run4 attempt1 rc=0 chars=199 elapsed=108.14
+2026-11-10T01:05:39 PROGRESS 39/40 P08-run4 status=completed CR=0.0192 pass=True
+2026-11-10T01:05:41 START P08-run5
+2026-11-10T01:05:41 WAITING P08-run5 attempt1
+2026-11-10T01:07:34 CALL P08-run5 attempt1 rc=0 chars=205 elapsed=112.9
+2026-11-10T01:07:34 PROGRESS 40/40 P08-run5 status=completed CR=0.0169 pass=True
+2026-11-10T01:07:36 실험 dsv41flash-facts-2026-11-10
+모델 opencode-go/deepseek-v4.1-flash  온도 0.7  사실표 사용  설문 AHP_설문_v8
+세션: 페르소나 1명 x 회차 1번마다 OpenCode 세션을 새로 열었다. CR 0.1 이상이면 그 세션에서 한 번 수정했다.
+집계: CR 0.1 미만만 사용. 같은 사람의 통과 회차를 기하평균해 1명으로 만든 뒤, 5회 중 3회 미만은 제외하고 남은 사람을 다시 기하평균했다.
+제외: 없음
+
+agent	인원 8 (P01 P02 P03 P04 P05 P06 P07 P08)	CR 0.0027	A 0.6643 / B 0.3357 (PFA)	A 0.6414 / B 0.3586 (단순비례)
+agent·감사	인원 2 (P01 P02)	CR 0.0041	A 0.6822 / B 0.3178 (PFA)	A 0.6583 / B 0.3417 (단순비례)
+agent·정보화	인원 2 (P03 P04)	CR 0.0077	A 0.6732 / B 0.3268 (PFA)	A 0.6558 / B 0.3442 (단순비례)
+agent·보안·법무	인원 2 (P05 P06)	CR 0.0013	A 0.6792 / B 0.3208 (PFA)	A 0.6649 / B 0.3351 (단순비례)
+agent·예산·기획	인원 2 (P07 P08)	CR 0.0056	A 0.6386 / B 0.3614 (PFA)	A 0.5971 / B 0.4029 (단순비례)
+
+페르소나별
+P01 감사 회계사 5/5 포함 A 0.6731 B 0.3269
+P02 감사 회계사 5/5 포함 A 0.6917 B 0.3083
+P03 정보화 정보 시스템 운영자 5/5 포함 A 0.6740 B 0.3260
+P04 정보화 정보 시스템 운영자 5/5 포함 A 0.6715 B 0.3285
+P05 보안·법무 변호사 5/5 포함 A 0.6728 B 0.3272
+P06 보안·법무 정보 보안 전문가 5/5 포함 A 0.6862 B 0.3138
+P07 예산·기획 공공행정 전문가 5/5 포함 A 0.6774 B 0.3226
+P08 예산·기획 국가행정 사무원 5/5 포함 A 0.6003 B 0.3997
+2026-11-10T01:07:36 DONE 40/40

@@ -1,0 +1,561 @@
+﻿trial_id,session_id,respondent_id,run,attempt,kind,item_index,item_key,item_kind,left,right,answer
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,1,C|2|0,criterion,운영 안정성,경제성(B/C),2
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,2,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,3,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,4,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,5,C|1|0,criterion,보안 및 규제,경제성(B/C),3
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,6,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/8
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,7,C|2|3,criterion,운영 안정성,행정 용이성,3
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,8,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,9,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/4
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,10,C|0|4,criterion,경제성(B/C),확장 및 유연성,3
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,11,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,12,C|4|2,criterion,확장 및 유연성,운영 안정성,1/5
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,13,C|1|3,criterion,보안 및 규제,행정 용이성,4
+P01-run1,ses_e3f216713ffefrEI29YopMAKhD,P01,1,1,initial,14,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,1,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,2,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/3
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,3,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,4,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,5,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),5
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,6,C|1|4,criterion,보안 및 규제,확장 및 유연성,9
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,7,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),2
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,8,C|0|1,criterion,경제성(B/C),보안 및 규제,1/3
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,9,C|3|1,criterion,행정 용이성,보안 및 규제,1/5
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,10,C|2|3,criterion,운영 안정성,행정 용이성,3
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,11,C|0|4,criterion,경제성(B/C),확장 및 유연성,3
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,12,C|4|3,criterion,확장 및 유연성,행정 용이성,1/2
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,13,C|4|2,criterion,확장 및 유연성,운영 안정성,1/5
+P01-run2,ses_e3f17167fffeAd0p5oxeLPp8aB,P01,2,1,initial,14,C|0|2,criterion,경제성(B/C),운영 안정성,1/2
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,1,C|0|4,criterion,경제성(B/C),확장 및 유연성,4
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,2,C|4|3,criterion,확장 및 유연성,행정 용이성,1/2
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,3,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,4,C|0|2,criterion,경제성(B/C),운영 안정성,1/2
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,5,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/9
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,6,C|2|4,criterion,운영 안정성,확장 및 유연성,8
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,7,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),7
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,8,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,9,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/3
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,10,C|3|2,criterion,행정 용이성,운영 안정성,1/4
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,11,C|0|1,criterion,경제성(B/C),보안 및 규제,1/4
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,12,C|3|1,criterion,행정 용이성,보안 및 규제,1/8
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,13,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P01-run3,ses_e3f162315ffenW257HTOEWJJls,P01,3,1,initial,14,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,1,C|4|3,criterion,확장 및 유연성,행정 용이성,1/2
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,2,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,3,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,4,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,5,C|0|4,criterion,경제성(B/C),확장 및 유연성,4
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,6,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/4
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,7,C|4|2,criterion,확장 및 유연성,운영 안정성,1/8
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,8,C|2|0,criterion,운영 안정성,경제성(B/C),2
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,9,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,10,C|3|2,criterion,행정 용이성,운영 안정성,1/4
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,11,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/3
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,12,C|3|1,criterion,행정 용이성,보안 및 규제,1/8
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,13,C|1|0,criterion,보안 및 규제,경제성(B/C),4
+P01-run4,ses_e3f15bd39ffe2l65msEMSTt0w5,P01,4,1,initial,14,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/9
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,1,C|3|2,criterion,행정 용이성,운영 안정성,1/8
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,2,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/2
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,3,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),3
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,4,C|0|2,criterion,경제성(B/C),운영 안정성,1/2
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,5,C|3|1,criterion,행정 용이성,보안 및 규제,1/9
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,6,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,7,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/5
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,8,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,9,C|3|4,criterion,행정 용이성,확장 및 유연성,1/2
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,10,C|2|4,criterion,운영 안정성,확장 및 유연성,4
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,11,C|1|0,criterion,보안 및 규제,경제성(B/C),4
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,12,C|0|3,criterion,경제성(B/C),행정 용이성,4
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,13,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P01-run5,ses_e3f153a7effeZDGk5gZIlHUSpE,P01,5,1,initial,14,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/8
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,1,C|1|3,criterion,보안 및 규제,행정 용이성,4
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,2,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,3,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,4,C|1|0,criterion,보안 및 규제,경제성(B/C),3
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,5,C|2|0,criterion,운영 안정성,경제성(B/C),2
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,6,C|0|4,criterion,경제성(B/C),확장 및 유연성,3
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,7,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,8,C|2|4,criterion,운영 안정성,확장 및 유연성,5
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,9,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/5
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,10,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,11,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,12,C|1|4,criterion,보안 및 규제,확장 및 유연성,8
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,13,C|3|2,criterion,행정 용이성,운영 안정성,1/2
+P02-run1,ses_e3f14b522ffe532vD4AxiewNEV,P02,1,1,initial,14,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),4
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,1,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,2,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,3,C|0|1,criterion,경제성(B/C),보안 및 규제,1/2
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,4,C|1|4,criterion,보안 및 규제,확장 및 유연성,4
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,5,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,6,C|0|4,criterion,경제성(B/C),확장 및 유연성,2
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,7,C|1|3,criterion,보안 및 규제,행정 용이성,6
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,8,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),4
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,9,C|3|4,criterion,행정 용이성,확장 및 유연성,1/2
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,10,C|2|1,criterion,운영 안정성,보안 및 규제,1/3
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,11,C|0|3,criterion,경제성(B/C),행정 용이성,3
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,12,C|4|2,criterion,확장 및 유연성,운영 안정성,1/2
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,13,C|3|2,criterion,행정 용이성,운영 안정성,1/2
+P02-run2,ses_e3f137ca0ffeBmGFgYpCfmRSsI,P02,2,1,initial,14,C|2|0,criterion,운영 안정성,경제성(B/C),1/2
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,1,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),4
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,2,C|0|4,criterion,경제성(B/C),확장 및 유연성,2
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,3,C|4|3,criterion,확장 및 유연성,행정 용이성,2
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,4,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,5,C|2|3,criterion,운영 안정성,행정 용이성,3
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,6,C|1|0,criterion,보안 및 규제,경제성(B/C),3
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,7,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,8,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,9,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,10,C|2|0,criterion,운영 안정성,경제성(B/C),2
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,11,C|1|4,criterion,보안 및 규제,확장 및 유연성,3
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,12,C|2|4,criterion,운영 안정성,확장 및 유연성,2
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,13,C|3|1,criterion,행정 용이성,보안 및 규제,1/5
+P02-run3,ses_e3f12901bffeuuwPbox9Kx6z4m,P02,3,1,initial,14,C|0|3,criterion,경제성(B/C),행정 용이성,3
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,1,C|2|3,criterion,운영 안정성,행정 용이성,4
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,2,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/5
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,3,C|0|4,criterion,경제성(B/C),확장 및 유연성,4
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,4,C|4|2,criterion,확장 및 유연성,운영 안정성,1/2
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,5,C|3|4,criterion,행정 용이성,확장 및 유연성,1/2
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,6,C|3|1,criterion,행정 용이성,보안 및 규제,1/9
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,7,C|0|2,criterion,경제성(B/C),운영 안정성,2
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,8,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,9,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,10,C|1|0,criterion,보안 및 규제,경제성(B/C),2
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,11,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/8
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,12,C|0|3,criterion,경제성(B/C),행정 용이성,8
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,13,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/5
+P02-run4,ses_e3f10f748ffeS1OghdLfD76zp2,P02,4,1,initial,14,C|2|1,criterion,운영 안정성,보안 및 규제,1/4
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,1,C|2|0,criterion,운영 안정성,경제성(B/C),3
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,2,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),2
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,3,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/3
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,4,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,5,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/5
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,6,C|2|4,criterion,운영 안정성,확장 및 유연성,4
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,7,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,8,C|2|3,criterion,운영 안정성,행정 용이성,3
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,9,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/3
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,10,C|3|1,criterion,행정 용이성,보안 및 규제,1/4
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,11,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,12,C|1|0,criterion,보안 및 규제,경제성(B/C),5
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,13,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/5
+P02-run5,ses_e3f103654ffe0rD8ShBGJTp8jF,P02,5,1,initial,14,C|3|0,criterion,행정 용이성,경제성(B/C),1/2
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,1,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,2,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/5
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,3,C|3|0,criterion,행정 용이성,경제성(B/C),2
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,4,C|1|0,criterion,보안 및 규제,경제성(B/C),8
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,5,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/2
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,6,C|0|2,criterion,경제성(B/C),운영 안정성,1/4
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,7,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/9
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,8,C|3|4,criterion,행정 용이성,확장 및 유연성,4
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,9,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,10,C|2|4,criterion,운영 안정성,확장 및 유연성,8
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,11,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,12,C|3|2,criterion,행정 용이성,운영 안정성,1/2
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,13,C|1|3,criterion,보안 및 규제,행정 용이성,4
+P03-run1,ses_e3f0f49c7ffe1H1RaanlZlMEiX,P03,1,1,initial,14,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,1,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/3
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,2,C|1|4,criterion,보안 및 규제,확장 및 유연성,8
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,3,C|2|0,criterion,운영 안정성,경제성(B/C),2
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,4,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,5,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,6,C|3|0,criterion,행정 용이성,경제성(B/C),1/2
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,7,C|0|4,criterion,경제성(B/C),확장 및 유연성,3
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,8,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,9,C|2|4,criterion,운영 안정성,확장 및 유연성,5
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,10,C|0|1,criterion,경제성(B/C),보안 및 규제,1/3
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,11,C|3|2,criterion,행정 용이성,운영 안정성,1/3
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,12,C|1|3,criterion,보안 및 규제,행정 용이성,4
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,13,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),4
+P03-run2,ses_e3f0dd5f7ffeAVQnfT65y33xwC,P03,2,1,initial,14,C|4|3,criterion,확장 및 유연성,행정 용이성,1/2
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,1,C|0|2,criterion,경제성(B/C),운영 안정성,1/2
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,2,C|1|3,criterion,보안 및 규제,행정 용이성,4
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,3,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,4,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),4
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,5,C|0|4,criterion,경제성(B/C),확장 및 유연성,2
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,6,C|2|3,criterion,운영 안정성,행정 용이성,3
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,7,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,8,C|1|0,criterion,보안 및 규제,경제성(B/C),3
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,9,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/5
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,10,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),4
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,11,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,12,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,13,C|2|4,criterion,운영 안정성,확장 및 유연성,4
+P03-run3,ses_e3f0b464dffekTFoz8iv0kkJLu,P03,3,1,initial,14,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,1,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,2,C|1|0,criterion,보안 및 규제,경제성(B/C),2
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,3,C|3|2,criterion,행정 용이성,운영 안정성,1/2
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,4,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,5,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,6,C|1|4,criterion,보안 및 규제,확장 및 유연성,3
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,7,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/4
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,8,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/3
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,9,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),4
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,10,C|3|1,criterion,행정 용이성,보안 및 규제,1/3
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,11,C|2|4,criterion,운영 안정성,확장 및 유연성,3
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,12,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),3
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,13,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P03-run4,ses_e3f0ac608ffeanoZKEKOmj3ACL,P03,4,1,initial,14,C|2|0,criterion,운영 안정성,경제성(B/C),1
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,1,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/5
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,2,C|0|4,criterion,경제성(B/C),확장 및 유연성,4
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,3,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),3
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,4,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,5,C|1|0,criterion,보안 및 규제,경제성(B/C),3
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,6,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,7,C|3|2,criterion,행정 용이성,운영 안정성,1/3
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,8,C|4|2,criterion,확장 및 유연성,운영 안정성,1/4
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,9,C|0|2,criterion,경제성(B/C),운영 안정성,1/2
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,10,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,11,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,12,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,13,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/4
+P03-run5,ses_e3f09a279ffefsc4igPmGHXDGj,P03,5,1,initial,14,C|1|3,criterion,보안 및 규제,행정 용이성,4
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,1,C|0|1,criterion,경제성(B/C),보안 및 규제,1/5
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,2,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),4
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,3,C|2|0,criterion,운영 안정성,경제성(B/C),3
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,4,C|4|2,criterion,확장 및 유연성,운영 안정성,1/5
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,5,C|2|3,criterion,운영 안정성,행정 용이성,2
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,6,C|3|1,criterion,행정 용이성,보안 및 규제,1/4
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,7,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),3
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,8,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),4
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,9,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,10,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/5
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,11,C|0|4,criterion,경제성(B/C),확장 및 유연성,2
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,12,C|4|3,criterion,확장 및 유연성,행정 용이성,1/3
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,13,C|0|3,criterion,경제성(B/C),행정 용이성,1/2
+P04-run1,ses_e3f09412affeFEtQMsqKBzIPK5,P04,1,1,initial,14,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/8
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,1,C|1|4,criterion,보안 및 규제,확장 및 유연성,8
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,2,C|2|4,criterion,운영 안정성,확장 및 유연성,7
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,3,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),7
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,4,C|0|1,criterion,경제성(B/C),보안 및 규제,1/6
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,5,C|0|3,criterion,경제성(B/C),행정 용이성,1/2
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,6,C|0|2,criterion,경제성(B/C),운영 안정성,1/5
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,7,C|3|2,criterion,행정 용이성,운영 안정성,1/3
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,8,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),3
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,9,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/3
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,10,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),6
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,11,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),6
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,12,C|3|4,criterion,행정 용이성,확장 및 유연성,4
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,13,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P04-run2,ses_e3f088f07ffeKM7AkeGsGm8bfe,P04,2,1,initial,14,C|1|3,criterion,보안 및 규제,행정 용이성,4
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,1,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/4
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,2,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/4
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,3,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/2
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,4,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/7
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,5,C|3|1,criterion,행정 용이성,보안 및 규제,1/3
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,6,C|3|0,criterion,행정 용이성,경제성(B/C),2
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,7,C|3|2,criterion,행정 용이성,운영 안정성,1/2
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,8,C|3|4,criterion,행정 용이성,확장 및 유연성,3
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,9,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,10,C|2|0,criterion,운영 안정성,경제성(B/C),3
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,11,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,12,C|2|4,criterion,운영 안정성,확장 및 유연성,4
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,13,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P04-run3,ses_e3f06b9eaffe3i6fqd38KhJhud,P04,3,1,initial,14,C|0|1,criterion,경제성(B/C),보안 및 규제,1/5
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,1,C|2|3,criterion,운영 안정성,행정 용이성,4
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,2,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,3,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/4
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,4,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,5,C|2|4,criterion,운영 안정성,확장 및 유연성,6
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,6,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,7,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,8,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/8
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,9,C|0|4,criterion,경제성(B/C),확장 및 유연성,4
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,10,C|2|0,criterion,운영 안정성,경제성(B/C),2
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,11,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,12,C|1|0,criterion,보안 및 규제,경제성(B/C),4
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,13,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),5
+P04-run4,ses_e3f066907ffedJg2VhKk4e6YQZ,P04,4,1,initial,14,C|3|1,criterion,행정 용이성,보안 및 규제,1/7
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,1,C|0|3,criterion,경제성(B/C),행정 용이성,1/2
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,2,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,3,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/5
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,4,C|2|0,criterion,운영 안정성,경제성(B/C),2
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,5,C|4|2,criterion,확장 및 유연성,운영 안정성,1/3
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,6,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/4
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,7,C|1|4,criterion,보안 및 규제,확장 및 유연성,5
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,8,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/2
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,9,C|2|3,criterion,운영 안정성,행정 용이성,2
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,10,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/4
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,11,C|3|1,criterion,행정 용이성,보안 및 규제,1/3
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,12,C|4|3,criterion,확장 및 유연성,행정 용이성,1/2
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,13,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P04-run5,ses_e3f060068ffeumgIcxBvYsPHUg,P04,5,1,initial,14,C|0|1,criterion,경제성(B/C),보안 및 규제,1/4
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,1,C|4|2,criterion,확장 및 유연성,운영 안정성,1/5
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,2,C|3|0,criterion,행정 용이성,경제성(B/C),1/2
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,3,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,4,C|2|3,criterion,운영 안정성,행정 용이성,2
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,5,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,6,C|2|0,criterion,운영 안정성,경제성(B/C),2
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,7,C|1|4,criterion,보안 및 규제,확장 및 유연성,7
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,8,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,9,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,10,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/3
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,11,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/3
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,12,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/5
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,13,C|1|0,criterion,보안 및 규제,경제성(B/C),4
+P05-run1,ses_e3f0502f5ffePO5i8K7DwIa8UP,P05,1,1,initial,14,C|3|1,criterion,행정 용이성,보안 및 규제,1/4
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,1,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,2,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),3
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,3,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,4,C|1|4,criterion,보안 및 규제,확장 및 유연성,3
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,5,C|1|0,criterion,보안 및 규제,경제성(B/C),4
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,6,C|4|2,criterion,확장 및 유연성,운영 안정성,1/2
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,7,C|2|3,criterion,운영 안정성,행정 용이성,2
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,8,C|2|0,criterion,운영 안정성,경제성(B/C),3
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,9,C|4|3,criterion,확장 및 유연성,행정 용이성,2
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,10,C|4|0,criterion,확장 및 유연성,경제성(B/C),3
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,11,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),4
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,12,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/3
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,13,C|3|0,criterion,행정 용이성,경제성(B/C),2
+P05-run2,ses_e3f042915ffel9Ik7aGM4daVQW,P05,2,1,initial,14,C|3|1,criterion,행정 용이성,보안 및 규제,1/3
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,1,C|0|4,criterion,경제성(B/C),확장 및 유연성,2
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,2,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,3,C|0|2,criterion,경제성(B/C),운영 안정성,1/2
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,4,C|4|3,criterion,확장 및 유연성,행정 용이성,1/2
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,5,C|0|1,criterion,경제성(B/C),보안 및 규제,1/3
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,6,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/3
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,7,C|3|2,criterion,행정 용이성,운영 안정성,1/2
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,8,C|1|3,criterion,보안 및 규제,행정 용이성,3
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,9,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),5
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,10,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/4
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,11,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,12,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,13,C|4|2,criterion,확장 및 유연성,운영 안정성,1/3
+P05-run3,ses_e3f038f96ffeEM8FQ9o2rW6MON,P05,3,1,initial,14,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,1,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,2,C|1|3,criterion,보안 및 규제,행정 용이성,3
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,3,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,4,C|2|0,criterion,운영 안정성,경제성(B/C),3
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,5,C|3|0,criterion,행정 용이성,경제성(B/C),2
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,6,C|2|3,criterion,운영 안정성,행정 용이성,2
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,7,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),3
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,8,C|0|4,criterion,경제성(B/C),확장 및 유연성,2
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,9,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/7
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,10,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/5
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,11,C|1|0,criterion,보안 및 규제,경제성(B/C),4
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,12,C|4|3,criterion,확장 및 유연성,행정 용이성,1/3
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,13,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/6
+P05-run4,ses_e3f02ca7effedREnsnpjKCFqWK,P05,4,1,initial,14,C|2|4,criterion,운영 안정성,확장 및 유연성,5
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,1,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),3
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,2,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/4
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,3,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/8
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,4,C|0|3,criterion,경제성(B/C),행정 용이성,1
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,5,C|2|3,criterion,운영 안정성,행정 용이성,2
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,6,C|4|2,criterion,확장 및 유연성,운영 안정성,1/4
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,7,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,8,C|1|3,criterion,보안 및 규제,행정 용이성,4
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,9,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,10,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,11,C|0|2,criterion,경제성(B/C),운영 안정성,1/2
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,12,C|0|1,criterion,경제성(B/C),보안 및 규제,1/4
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,13,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),4
+P05-run5,ses_e3f020cbbffeL2YyZvokKECxDv,P05,5,1,initial,14,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/2
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,1,C|1|3,criterion,보안 및 규제,행정 용이성,4
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,2,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,3,C|1|4,criterion,보안 및 규제,확장 및 유연성,9
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,4,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),7
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,5,C|0|4,criterion,경제성(B/C),확장 및 유연성,2
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,6,C|4|3,criterion,확장 및 유연성,행정 용이성,1/4
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,7,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),5
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,8,C|1|0,criterion,보안 및 규제,경제성(B/C),8
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,9,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,10,C|2|3,criterion,운영 안정성,행정 용이성,2
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,11,C|0|2,criterion,경제성(B/C),운영 안정성,1/4
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,12,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,13,C|3|0,criterion,행정 용이성,경제성(B/C),2
+P06-run1,ses_e3f019672ffeWxXFB8DbXhkUhr,P06,1,1,initial,14,C|2|4,criterion,운영 안정성,확장 및 유연성,8
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,1,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,2,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/5
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,3,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,4,C|3|0,criterion,행정 용이성,경제성(B/C),4
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,5,C|2|3,criterion,운영 안정성,행정 용이성,2
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,6,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,7,C|2|0,criterion,운영 안정성,경제성(B/C),8
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,8,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,9,C|4|0,criterion,확장 및 유연성,경제성(B/C),2
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,10,C|4|2,criterion,확장 및 유연성,운영 안정성,1/4
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,11,C|0|1,criterion,경제성(B/C),보안 및 규제,1/9
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,12,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/4
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,13,C|1|4,criterion,보안 및 규제,확장 및 유연성,8
+P06-run2,ses_e3f007399fferLMd5iT2a3qEqt,P06,2,1,initial,14,C|3|1,criterion,행정 용이성,보안 및 규제,1/4
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,1,C|0|4,criterion,경제성(B/C),확장 및 유연성,2
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,2,C|0|3,criterion,경제성(B/C),행정 용이성,1/2
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,3,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,4,C|0|2,criterion,경제성(B/C),운영 안정성,1/3
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,5,C|2|3,criterion,운영 안정성,행정 용이성,2
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,6,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),5
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,7,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),5
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,8,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,9,C|1|0,criterion,보안 및 규제,경제성(B/C),5
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,10,C|1|4,criterion,보안 및 규제,확장 및 유연성,7
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,11,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,12,C|2|4,criterion,운영 안정성,확장 및 유연성,5
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,13,C|3|4,criterion,행정 용이성,확장 및 유연성,3
+P06-run3,ses_e3eff1ab0ffeSWScpXyHCJ8fn2,P06,3,1,initial,14,C|3|1,criterion,행정 용이성,보안 및 규제,1/3
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,1,C|4|3,criterion,확장 및 유연성,행정 용이성,1/2
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,2,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/5
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,3,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,4,C|1|4,criterion,보안 및 규제,확장 및 유연성,8
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,5,C|2|4,criterion,운영 안정성,확장 및 유연성,5
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,6,C|1|3,criterion,보안 및 규제,행정 용이성,6
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,7,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,8,C|3|2,criterion,행정 용이성,운영 안정성,1/3
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,9,C|1|0,criterion,보안 및 규제,경제성(B/C),4
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,10,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/3
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,11,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),7
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,12,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),3
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,13,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/5
+P06-run4,ses_e3efe33cdffeLT5tAlzs7xih6l,P06,4,1,initial,14,C|2|0,criterion,운영 안정성,경제성(B/C),2
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,1,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,2,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),4
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,3,C|0|1,criterion,경제성(B/C),보안 및 규제,1/4
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,4,C|3|0,criterion,행정 용이성,경제성(B/C),1/2
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,5,C|3|1,criterion,행정 용이성,보안 및 규제,1/8
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,6,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/3
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,7,C|0|2,criterion,경제성(B/C),운영 안정성,1/2
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,8,C|3|2,criterion,행정 용이성,운영 안정성,1/4
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,9,C|0|4,criterion,경제성(B/C),확장 및 유연성,2
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,10,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,11,C|2|4,criterion,운영 안정성,확장 및 유연성,4
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,12,C|4|3,criterion,확장 및 유연성,행정 용이성,1
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,13,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/8
+P06-run5,ses_e3efd3c18ffeJIwoNxWja60zMY,P06,5,1,initial,14,C|2|1,criterion,운영 안정성,보안 및 규제,1/2
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,1,C|1|0,criterion,보안 및 규제,경제성(B/C),2
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,2,C|4|3,criterion,확장 및 유연성,행정 용이성,1/2
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,3,C|3|1,criterion,행정 용이성,보안 및 규제,1/6
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,4,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/9
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,5,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/5
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,6,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),7
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,7,C|0|4,criterion,경제성(B/C),확장 및 유연성,5
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,8,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),2
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,9,C|2|1,criterion,운영 안정성,보안 및 규제,1/4
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,10,C|0|3,criterion,경제성(B/C),행정 용이성,3
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,11,C|2|4,criterion,운영 안정성,확장 및 유연성,4
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,12,C|2|3,criterion,운영 안정성,행정 용이성,2
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,13,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/7
+P07-run1,ses_e3efc8aa5ffeJX1EFESot2MPYA,P07,1,1,initial,14,C|0|2,criterion,경제성(B/C),운영 안정성,2
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,1,C|0|2,criterion,경제성(B/C),운영 안정성,2
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,2,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),5
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,3,C|2|3,criterion,운영 안정성,행정 용이성,2
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,4,C|2|4,criterion,운영 안정성,확장 및 유연성,4
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,5,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),5
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,6,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),2
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,7,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/8
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,8,C|1|3,criterion,보안 및 규제,행정 용이성,8
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,9,C|1|2,criterion,보안 및 규제,운영 안정성,4
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,10,C|0|3,criterion,경제성(B/C),행정 용이성,4
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,11,C|1|4,criterion,보안 및 규제,확장 및 유연성,9
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,12,C|0|1,criterion,경제성(B/C),보안 및 규제,1/2
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,13,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P07-run2,ses_e3efbcc0cffeATs4NWKHfZy0hg,P07,2,1,initial,14,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),5
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,1,C|0|4,criterion,경제성(B/C),확장 및 유연성,4
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,2,C|2|4,criterion,운영 안정성,확장 및 유연성,3
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,3,A|1|1|0,alternative,B 공공 SaaS (보안 및 규제 측면),A 직접 구축 (보안 및 규제 측면),1/3
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,4,C|1|2,criterion,보안 및 규제,운영 안정성,4
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,5,C|0|1,criterion,경제성(B/C),보안 및 규제,1/2
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,6,C|0|2,criterion,경제성(B/C),운영 안정성,2
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,7,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,8,C|3|1,criterion,행정 용이성,보안 및 규제,1/4
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,9,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),3
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,10,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),3
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,11,C|1|4,criterion,보안 및 규제,확장 및 유연성,6
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,12,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),1/2
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,13,C|2|3,criterion,운영 안정성,행정 용이성,2
+P07-run3,ses_e3ef944b8ffeRNyEjkdv94FhrZ,P07,3,1,initial,14,C|0|3,criterion,경제성(B/C),행정 용이성,3
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,1,C|2|1,criterion,운영 안정성,보안 및 규제,1/4
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,2,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,3,C|3|0,criterion,행정 용이성,경제성(B/C),1/3
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,4,C|2|0,criterion,운영 안정성,경제성(B/C),1/2
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,5,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/5
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,6,C|2|3,criterion,운영 안정성,행정 용이성,2
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,7,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/9
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,8,C|3|1,criterion,행정 용이성,보안 및 규제,1/6
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,9,C|3|4,criterion,행정 용이성,확장 및 유연성,2
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,10,C|2|4,criterion,운영 안정성,확장 및 유연성,3
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,11,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),2
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,12,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/6
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,13,C|0|4,criterion,경제성(B/C),확장 및 유연성,5
+P07-run4,ses_e3ef8a97affe5MfvqneHDZ1K3i,P07,4,1,initial,14,C|1|0,criterion,보안 및 규제,경제성(B/C),2
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,1,C|2|4,criterion,운영 안정성,확장 및 유연성,2
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,2,C|3|0,criterion,행정 용이성,경제성(B/C),1
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,3,C|0|1,criterion,경제성(B/C),보안 및 규제,1/2
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,4,C|1|2,criterion,보안 및 규제,운영 안정성,4
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,5,C|4|3,criterion,확장 및 유연성,행정 용이성,1/4
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,6,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,7,C|1|3,criterion,보안 및 규제,행정 용이성,2
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,8,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),2
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,9,C|0|4,criterion,경제성(B/C),확장 및 유연성,4
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,10,C|2|0,criterion,운영 안정성,경제성(B/C),1/2
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,11,C|2|3,criterion,운영 안정성,행정 용이성,1/2
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,12,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/4
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,13,C|1|4,criterion,보안 및 규제,확장 및 유연성,8
+P07-run5,ses_e3ef7b418ffeKd3ygVzOL0YBjm,P07,5,1,initial,14,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/4
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,1,C|2|1,criterion,운영 안정성,보안 및 규제,1/3
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,2,C|4|2,criterion,확장 및 유연성,운영 안정성,1/2
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,3,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/5
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,4,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),5
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,5,C|3|1,criterion,행정 용이성,보안 및 규제,1/2
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,6,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,7,C|2|3,criterion,운영 안정성,행정 용이성,1/2
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,8,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/5
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,9,C|1|0,criterion,보안 및 규제,경제성(B/C),1/2
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,10,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/4
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,11,C|4|3,criterion,확장 및 유연성,행정 용이성,1/3
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,12,C|3|0,criterion,행정 용이성,경제성(B/C),1/3
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,13,C|2|0,criterion,운영 안정성,경제성(B/C),1/4
+P08-run1,ses_e3ef6d723ffe04WQpjVsNQm38Y,P08,1,1,initial,14,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),1/2
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,1,A|3|1|0,alternative,B 공공 SaaS (행정 용이성 측면),A 직접 구축 (행정 용이성 측면),6
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,2,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),5
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,3,C|3|1,criterion,행정 용이성,보안 및 규제,2
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,4,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/2
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,5,C|3|0,criterion,행정 용이성,경제성(B/C),1/2
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,6,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,7,C|0|2,criterion,경제성(B/C),운영 안정성,3
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,8,C|0|4,criterion,경제성(B/C),확장 및 유연성,3
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,9,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),2
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,10,C|2|4,criterion,운영 안정성,확장 및 유연성,2
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,11,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,12,C|1|0,criterion,보안 및 규제,경제성(B/C),1/3
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,13,C|2|3,criterion,운영 안정성,행정 용이성,1/2
+P08-run2,ses_e3ef562defferHzHqdt5g20Eg9,P08,2,1,initial,14,C|3|4,criterion,행정 용이성,확장 및 유연성,3
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,1,C|0|1,criterion,경제성(B/C),보안 및 규제,1/2
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,2,C|3|2,criterion,행정 용이성,운영 안정성,2
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,3,C|0|4,criterion,경제성(B/C),확장 및 유연성,4
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,4,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/6
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,5,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,6,C|3|4,criterion,행정 용이성,확장 및 유연성,4
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,7,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),5
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,8,C|2|0,criterion,운영 안정성,경제성(B/C),1/4
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,9,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),4
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,10,A|2|0|1,alternative,A 직접 구축 (운영 안정성 측면),B 공공 SaaS (운영 안정성 측면),1/2
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,11,C|1|2,criterion,보안 및 규제,운영 안정성,4
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,12,C|1|3,criterion,보안 및 규제,행정 용이성,3
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,13,C|2|4,criterion,운영 안정성,확장 및 유연성,2
+P08-run3,ses_e3ef3c2b1ffeq0p2A4eu8Q50TA,P08,3,1,initial,14,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/7
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,1,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/5
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,2,C|2|0,criterion,운영 안정성,경제성(B/C),1/3
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,3,C|4|2,criterion,확장 및 유연성,운영 안정성,1/2
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,4,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,5,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/5
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,6,A|4|0|1,alternative,A 직접 구축 (확장 및 유연성 측면),B 공공 SaaS (확장 및 유연성 측면),4
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,7,C|0|3,criterion,경제성(B/C),행정 용이성,2
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,8,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),2
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,9,C|1|0,criterion,보안 및 규제,경제성(B/C),2
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,10,C|0|4,criterion,경제성(B/C),확장 및 유연성,3
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,11,C|1|3,criterion,보안 및 규제,행정 용이성,3
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,12,C|3|4,criterion,행정 용이성,확장 및 유연성,3
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,13,C|2|3,criterion,운영 안정성,행정 용이성,1/2
+P08-run4,ses_e3ef2c31dffey7u4mlRz4Eiy5E,P08,4,1,initial,14,C|1|2,criterion,보안 및 규제,운영 안정성,4
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,1,C|2|4,criterion,운영 안정성,확장 및 유연성,3
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,2,A|4|1|0,alternative,B 공공 SaaS (확장 및 유연성 측면),A 직접 구축 (확장 및 유연성 측면),1/3
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,3,C|2|3,criterion,운영 안정성,행정 용이성,2
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,4,C|4|1,criterion,확장 및 유연성,보안 및 규제,1/5
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,5,C|4|0,criterion,확장 및 유연성,경제성(B/C),1/3
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,6,C|3|0,criterion,행정 용이성,경제성(B/C),1/2
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,7,C|1|2,criterion,보안 및 규제,운영 안정성,2
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,8,C|2|0,criterion,운영 안정성,경제성(B/C),1/2
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,9,C|1|0,criterion,보안 및 규제,경제성(B/C),2
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,10,C|3|1,criterion,행정 용이성,보안 및 규제,1/3
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,11,A|2|1|0,alternative,B 공공 SaaS (운영 안정성 측면),A 직접 구축 (운영 안정성 측면),2
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,12,C|4|3,criterion,확장 및 유연성,행정 용이성,1/2
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,13,A|1|0|1,alternative,A 직접 구축 (보안 및 규제 측면),B 공공 SaaS (보안 및 규제 측면),3
+P08-run5,ses_e3ef114d9ffen21z7ja3wue1Ru,P08,5,1,initial,14,A|3|0|1,alternative,A 직접 구축 (행정 용이성 측면),B 공공 SaaS (행정 용이성 측면),1/5

@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AHP 설문 · 감사 업무 AI 도입 방식</title>
+<style>
+*{box-sizing:border-box}body{font-family:"Pretendard","Malgun Gothic",sans-serif;max-width:720px;margin:0 auto;padding:16px;color:#222;background:#fafaf7;line-height:1.55}
+h1{font-size:20px}h2{font-size:17px;margin:0 0 8px}.card{background:#fff;border:1px solid #ddd;border-radius:12px;padding:16px;margin:12px 0}
+.alt{border-left:5px solid #7a9a7e}.alt.b{border-left-color:#8a8fb5}ul{padding-left:18px;margin:6px 0}
+table{border-collapse:collapse;width:100%;font-size:14px}td,th{border:1px solid #ddd;padding:6px;text-align:center}
+.small{font-size:13px;color:#666}.q{font-size:16px;font-weight:600;margin-bottom:8px}
+.sides{display:flex;justify-content:space-between;font-weight:700;gap:8px}.sides span{flex:1}.sides span:last-child{text-align:right}
+input[type=range]{width:100%;margin:14px 0 4px}.val{text-align:center;font-size:14px;color:#444}
+.nav{display:flex;justify-content:space-between;align-items:center;margin:16px 0}
+button{background:#5d7f62;color:#fff;border:0;border-radius:8px;padding:12px 20px;font-size:16px}button:disabled{background:#bbb}
+.tk{display:flex;justify-content:space-between;font-size:11px;color:#888;margin-top:-2px}input[type=range]{height:32px}
+.ok{color:#2e7d32;font-weight:700}.bad{color:#c62828;font-weight:700}.hide{display:none!important}
+.hint{background:#fff8e1;border:1px solid #ffe082;border-radius:8px;padding:10px;margin-top:8px;font-size:13px;color:#5d4037}
+select,input[type=text]{font-size:16px;padding:8px;width:100%;margin-top:4px}
+</style></head><body>
+<datalist id="ticks"><option value="-8"></option><option value="-7"></option><option value="-6"></option><option value="-5"></option><option value="-4"></option><option value="-3"></option><option value="-2"></option><option value="-1"></option><option value="0"></option><option value="1"></option><option value="2"></option><option value="3"></option><option value="4"></option><option value="5"></option><option value="6"></option><option value="7"></option><option value="8"></option></datalist>
+<div id="steps"></div>
+<div class="nav"><button id="prev">이전</button><span id="pos" class="small"></span><button id="next">다음</button></div>
+<script id="config" type="application/json">
+{
+ "ALT": [
+  "A 직접 구축",
+  "B 공공 SaaS"
+ ],
+ "BC": [
+  1.4,
+  1.02
+ ],
+ "C": [
+  "경제성(B/C)",
+  "보안 및 규제",
+  "운영 안정성",
+  "행정 용이성",
+  "확장 및 유연성"
+ ],
+ "CDEF": [
+  "10년 총비용 대비 편익(B/C 결과 A 1.40, B 1.02)",
+  "데이터 위치와 등급 요건을 충족하는가(감사자료 내부 보관 여부, N2SF 등급, 망분리, 개인정보 통제). 검토 절차와 기간은 행정 용이성에서 다룹니다.",
+  "① 평소 운영: 장애 대응, 시스템 가용성, 전담 운영 부담. ② 장기 연속성: 서비스 종료나 사업자 변경 시 데이터를 옮기고 빠져나올 수 있는가(종속 위험).",
+  "도입과 이후 유지보수 계약·재발주의 절차 부담과 기간: 예산 심의(중복투자 심의), 발주·계약, 보안성 검토 절차. 비용 자체는 경제성에서 다룹니다.",
+  "감사 업무 맞춤형 기능 개발, 최신 AI 모델 교체, Agent 확장성"
+ ],
+ "FACTS": {
+  "보안 및 규제": [
+   "데이터를 감사원 내부에 보관",
+   "행안부 PPP존에서 처리, S등급 요건 확보"
+  ],
+  "운영 안정성": [
+   "자체 인력이 운영과 장애 대응 / 데이터와 모델을 감사원이 소유",
+   "플랫폼이 운영과 장애 대응 / 계약 종료나 사업자 변경 시 데이터 이관 절차 필요"
+  ],
+  "행정 용이성": [
+   "입찰 발주·보안성 검토 필요, 매년 유지보수 계약·6년차 재발주",
+   "별도 입찰 없이 이용 신청으로 도입, 보안 검토 완료"
+  ],
+  "확장 및 유연성": [
+   "기능을 직접 개발해 바꿀 수 있음",
+   "플랫폼 갱신을 따라감, 맞춤 변경은 플랫폼 협의 필요"
+  ]
+ }
+}
+</script>
+<script>
+// ===== 설정: 요인·정의·B/C는 위 config 블록만 고치면 됩니다 (Agent도 같은 블록을 읽음) =====
+const WEBAPP_URL = "PASTE_APPS_SCRIPT_WEB_APP_URL_HERE";
+const CFG = JSON.parse(document.getElementById('config').textContent);
+const ALT = CFG.ALT, BC = CFG.BC, C = CFG.C, CDEF = CFG.CDEF, FACTS = CFG.FACTS||{};
+const RI5 = 1.12;
+// ================
+const S=[];const host=document.getElementById('steps');
+function add(html){const d=document.createElement('div');d.innerHTML=html;host.appendChild(d);S.push(d);return d;}
+add(`<div id="intro"><h1>감사 업무를 돕는 AI를 들이는 두 가지 방법</h1>
+<div class="card">감사보고서, 법령, 지침 같은 내부 문서를 AI에게 물으면 근거 문서와 함께 답해 주는 시스템이에요. 예를 들어 "비슷한 처분 사례 찾아줘"라고 하면 관련 보고서를 찾아 요약하고 원문 위치를 알려 줘요. 하는 일은 두 방식이 같고, AI를 어디에 두고 누가 운영하느냐가 달라요.</div>
+<div class="card alt"><h2>A. 직접 구축: 감사원 안에 AI를 직접 들여놓는 방식</h2><ul>
+<li>감사원 전산실에 AI 전용 서버를 두고, 공개된 AI 모델을 설치해 운영합니다.</li>
+<li>좋은 점: 자료가 감사원 밖으로 나가지 않습니다. 감사원 업무에 맞게 고쳐 쓸 수 있습니다.</li>
+<li>아쉬운 점: 사업 발주와 보안성 검토를 거쳐야 해서 도입이 오래 걸립니다. 기능을 바꾸거나 모델을 교체할 때마다 예산과 운영 인력이 필요합니다.</li></ul></div>
+<div class="card alt b"><h2>B. 공공 SaaS: 정부가 마련한 AI 서비스를 빌려 쓰는 방식</h2><ul>
+<li>행정안전부 업무 플랫폼 안의 AI 기능을 직원 1인당 월 2만 원에 구독해서 씁니다.</li>
+<li>좋은 점: 보안 검토가 이미 끝나 있어 신청하면 바로 쓸 수 있습니다. 기능 개선은 플랫폼이 알아서 합니다.</li>
+<li>아쉬운 점: 자료가 감사원 밖에 있는 정부 보안 구역(PPP존)에서 처리됩니다. 감사원에 맞춘 기능을 만들기 어렵습니다.</li></ul></div>
+<div class="card"><h2>10년 동안의 비용과 효과</h2><table>
+<tr><th>구분</th><th>A 직접 구축</th><th>B 공공 SaaS</th></tr>
+<tr><td>10년 비용(현재가치)</td><td>약 20.8억 원</td><td>약 28.5억 원</td></tr>
+<tr><td>10년 효과(업무시간 절감, 현재가치)</td><td>약 29억 원</td><td>약 29억 원</td></tr>
+<tr><td>비용 대비 효과(B/C)</td><td>1.40</td><td>1.02</td></tr></table>
+<p class="small">B/C가 1보다 크면 쓴 돈보다 얻는 효과가 크다는 뜻입니다.<br>두 방식 모두 장단점이 있으며, 어느 쪽이 정답인지 정해져 있지 않습니다.</p></div></div>`);
+S[0].insertAdjacentHTML('beforeend',`<div class="card"><h2>요인별로 두 방식은 이렇게 달라요</h2><p class="small">사실만 적었습니다. 어느 쪽이 나은지는 응답자가 판단합니다.</p><table><tr><th>요인</th><th>${ALT[0]}</th><th>${ALT[1]}</th></tr>`+
+  Object.entries(FACTS).map(([k,v])=>`<tr><td>${k}</td><td>${v[0]}</td><td>${v[1]}</td></tr>`).join('')+`</table></div>`);
+add(`<div class="card"><h2>평가 요인</h2><ol>${C.map((c,i)=>`<li><b>${c}</b>: ${CDEF[i]}</li>`).join('')}</ol></div>
+<div class="card"><h2>응답자 정보</h2><p class="small">이름은 받지 않습니다.</p>
+<label>직무<select id="role"><option>감사</option><option>정보화</option><option>보안·법무</option><option>예산·기획</option><option>기타</option></select></label><br><br>
+<label>응답자 번호<input type="text" id="rid" placeholder="예: 1"></label></div>
+<div class="card small">슬라이더를 더 중요한 쪽으로 옮겨 주세요. 가운데는 "같다"(1), 끝은 "극히 더 중요"(9)입니다.</div>`);
+const pairs=[];for(let i=0;i<5;i++)for(let j=i+1;j<5;j++)pairs.push([i,j]);
+function q(id,title,L,R,sub){add(`<div class="card"><div class="small">${sub}</div><div class="q">${title}</div>
+<div class="sides"><span>${L}</span><span>${R}</span></div><input type="range" min="-8" max="8" step="1" value="0" id="${id}" list="ticks"><div class="tk"><span>극히</span><span>매우</span><span>꽤</span><span>약간</span><span>같다</span><span>약간</span><span>꽤</span><span>매우</span><span>극히</span></div><div class="val" id="${id}v">같다</div></div>`);}
+pairs.forEach(([i,j],k)=>q('c'+k,'두 요인 중 무엇이 더 중요한가요?',C[i],C[j],`요인 비교 ${k+1}/10`));
+for(let c=1;c<5;c++)q('a'+c,`"${C[c]}" 측면에서 어느 방식이 더 나은가요?`,ALT[0],ALT[1],`방식 비교 ${c}/4 · ${C[c]}: ${CDEF[c]}`+(FACTS[C[c]]?`<br>· A: ${FACTS[C[c]][0]}<br>· B: ${FACTS[C[c]][1]}`:''));
+add(`<div class="card"><h2>응답 확인 및 제출</h2><div>요인 비교 일관성 비율 CR = <span id="cr"></span> <span class="small">(0.1 미만이면 집계에 들어가요.)</span></div><div id="fix" class="hint hide"></div><div id="res" class="hide"></div>
+<p class="small">응답은 시트에 기록되며, 결과는 전체 응답을 모아 따로 분석합니다.</p><button id="send">제출</button> <span id="msg"></span></div>`);
+const sat=v=>v===0?1:(v<0?1-v:1/(1+v));
+const WORD=["같다","같다~약간","약간","약간~꽤","꽤","꽤~매우","매우","매우~극히","극히"];
+const lab=(v,verb)=>v==0?"같다":(v<0?"← 왼쪽이 ":"오른쪽이 → ")+WORD[Math.abs(v)]+" 더 "+verb;
+let st={}, crFirst=null, revised=false;
+function upd(){const M=[...Array(5)].map(()=>Array(5).fill(1)),raw={};
+pairs.forEach(([i,j],k)=>{const v=+document.getElementById('c'+k).value;document.getElementById('c'+k+'v').textContent=lab(v,'중요');const a=sat(v);M[i][j]=a;M[j][i]=1/a;raw[`${C[i]}|${C[j]}`]=a;});
+const g=M.map(r=>Math.pow(r.reduce((a,b)=>a*b,1),1/5)),sg=g.reduce((a,b)=>a+b),w=g.map(x=>x/sg);
+const lam=M.map((r,i)=>r.reduce((a,x,j)=>a+x*w[j],0)/w[i]).reduce((a,b)=>a+b)/5,crv=((lam-5)/4)/RI5;
+const pf=b=>b>=1?5.11532*Math.log(b)+1:1/(5.11532*Math.log(1/b)+1), rr=pf(BC[0]/BC[1]);
+const altW=[[rr/(1+rr),1/(1+rr)]], eS=[BC[0]/(BC[0]+BC[1]),BC[1]/(BC[0]+BC[1])];
+for(let c=1;c<5;c++){const v=+document.getElementById('a'+c).value;document.getElementById('a'+c+'v').textContent=lab(v,'낫다');const a=sat(v);raw[`ALT|${C[c]}`]=a;altW.push([a/(1+a),1/(1+a)]);}
+const tot=[0,1].map(k=>altW.reduce((s,aw,c)=>s+aw[k]*w[c],0));
+const totS=[0,1].map(k=>[eS].concat(altW.slice(1)).reduce((s,aw,c)=>s+aw[k]*w[c],0));
+const bad=pairs.map(([i,j])=>[Math.abs(Math.log(M[i][j]/(w[i]/w[j]))),i,j]).sort((a,b)=>b[0]-a[0]).slice(0,3).map(([_,i,j])=>`"${C[i]}" vs "${C[j]}"`);
+document.getElementById('cr').innerHTML=`<span class="${crv<0.1?'ok':'bad'}">${crv.toFixed(3)}</span>`;
+document.getElementById('res').innerHTML=`<table><tr><th>요인</th><th>가중치</th><th>A</th><th>B</th></tr>`+C.map((c,i)=>`<tr><td>${c}</td><td>${w[i].toFixed(3)}</td><td>${altW[i][0].toFixed(3)}</td><td>${altW[i][1].toFixed(3)}</td></tr>`).join('')+`<tr><th>종합 (기준: PFA)</th><th>1.000</th><th>${tot[0].toFixed(3)}</th><th>${tot[1].toFixed(3)}</th></tr><tr><th>종합 (민감도: 단순 비례)</th><th>1.000</th><th>${totS[0].toFixed(3)}</th><th>${totS[1].toFixed(3)}</th></tr></table>`;
+st={w,cr:crv,altW,tot,totS,raw};
+document.getElementById('send').disabled=false;
+const fx=document.getElementById('fix');fx.classList.toggle('hide',crv<0.1);fx.innerHTML=crv>=0.1?`<b>일관성 점검 안내:</b> 특히 ${bad.join(', ')} 비교가 서로 어긋나요. 이전 버튼으로 돌아가 한 번 고쳐 주세요. 고치지 않고 제출해도 기록은 남지만 집계에서는 빠집니다.`:'';}
+document.querySelectorAll('input[type=range]').forEach(r=>r.oninput=()=>{if(crFirst!==null)revised=true;upd();});upd();
+let cur=0;const prev=document.getElementById('prev'),next=document.getElementById('next'),pos=document.getElementById('pos');
+function show(){if(cur===S.length-1&&crFirst===null)crFirst=st.cr;S.forEach((s,i)=>s.classList.toggle('hide',i!==cur));prev.disabled=cur===0;next.classList.toggle('hide',cur===S.length-1);pos.textContent=`${cur+1} / ${S.length}`;window.scrollTo(0,0);}
+prev.onclick=()=>{cur--;show();};next.onclick=()=>{if(cur===1&&!document.getElementById('rid').value.trim()){alert('응답자 번호를 입력해 주세요.');return;}cur++;show();};show();
+document.getElementById('send').onclick=async()=>{const m=document.getElementById('msg');
+const p={timestamp:new Date().toISOString(),source:"human",respondent_id:document.getElementById('rid').value.trim(),role:document.getElementById('role').value,model:"",run:1,
+criteria:C,weights:st.w,cr_initial:crFirst??st.cr,cr:st.cr,alt_names:ALT,alt_local:st.altW,total:st.tot,total_simple:st.totS,attempts:revised?2:1,cr_pass:st.cr<0.1,raw:st.raw};
+if(WEBAPP_URL.startsWith('PASTE')){m.textContent='시트 주소가 아직 없어요. 결과를 콘솔에 출력했어요.';console.log(p);return;}
+document.getElementById('send').disabled=true;m.textContent='전송 중…';
+try{await fetch(WEBAPP_URL,{method:'POST',mode:'no-cors',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify(p)});m.textContent='제출했어요. 감사합니다.';}
+catch(e){m.textContent='전송 실패: '+e;document.getElementById('send').disabled=false;}};
+</script></body></html>
